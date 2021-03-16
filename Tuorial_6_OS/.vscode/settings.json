@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "__cxx_version": "c",
+        "__mutex_base": "c",
+        "mutex": "c"
+    }
+}
